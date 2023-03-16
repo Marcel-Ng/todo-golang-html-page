@@ -14,11 +14,13 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum natus nisi
     <section>
         <h2> {{ .Question }} </h2>
         <p> {{ .Answer }} </p>
+        
+        <a href="/faqs/edit/{{ .ID }}">Edit</a>
+        <a href="/faqs/edit/">Delete</a>
         <hr>
     </section>
     {{ end}}
 
-    <a href="/faqs/admin">Admin</a>
-    <!-- <script src="./static/script.js"></script> -->
+    <a href="/creat">Faqs</a>
 </body>
 </html>
