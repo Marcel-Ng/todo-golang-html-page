@@ -1,0 +1,24 @@
+{
+   "faqs": [
+        {
+            "id":       1,
+            "question": "Question Unu",
+            "answer":   "eligendi explicabo ducimus cum inventore eos. blanditiis ullam distinctio qui"
+        },
+        {
+            "id":       2,
+            "question": "Question Two",
+            "answer":   "eligendi explicabo ducimus cum inventore eos. delectus repellendus perferendis tempora labore odio"
+        },
+        {
+            "id":       3,
+            "question": "Question Three",
+            "answer":   "eligendi explicabo ducimus cum inventore eos."
+        },
+        {
+            "id":       4,
+            "question": "Question Four",
+            "answer":   "eligendi explicabo ducimus cum inventore eos. ea temporibus praesentium"
+        }
+    ]
+}
